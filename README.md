@@ -32,24 +32,13 @@ El análisis combina **Python** para limpieza y procesamiento de datos, y **Tabl
 
 ## 📁 Estructura del Repositorio
 
-DA_Mercado_TI/
-│
-├── dashboard/ # Dashboard interactivo en Tableau Public
-│
-├── datos/
-│ ├── raw/ # Dataset original (CSV)
-│ └── processed/ # Datos limpios y procesados
-│
-├── insight/ # Presentación de resultados
-│
-├── notebooks/ # Análisis en Jupyter
-│ ├── 01_eda_y_limpieza.ipynb
-│ └── 02_feature_engineering.ipynb
-│
-├── outputs/ # Visualizaciones generadas en Python
-│ └── graficos/
-│
-└── README.md
+| Carpeta        | Propósito                                |
+| -------------- | ---------------------------------------- |
+| **dashboard/** | Visualización de datos en Tableau Public |
+| **datos/**     | Datos crudos y procesados                |
+| **insight/**   | Presentación de resultados               |
+| **notebooks/** | Análisis en Jupyter Notebook             |
+| **outputs/**   | Visualizaciones generadas en Python      |
 
 ---
 
